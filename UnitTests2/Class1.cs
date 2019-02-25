@@ -17,6 +17,8 @@ namespace UnitTests2
             DummyCode dummyCode = new DummyCode();
             dummyCode.CheckPalindrome(5);
 
+            //Testing the Github
+
           //  DummyCode dummyCode = new DummyCode();
             dummyCode.CheckPalindrome(9);
         }
