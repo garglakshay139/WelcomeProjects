@@ -11,9 +11,11 @@ namespace ConsoleApplication20
         {
 
             DummyCode dummyCode = new DummyCode();
+             DummyCode dummyCode2 = new DummyCode();
             dummyCode.CheckPalindrome(5);
            
         }
+        // Testin again
 
     }
 
